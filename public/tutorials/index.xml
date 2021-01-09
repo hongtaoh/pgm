@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>教程 on Hugo-HT</title>
+    <link>https://example.com/tutorials/</link>
+    <description>Recent content in 教程 on Hugo-HT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/tutorials/md/</link>
+      <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tutorials/md/</guid>
+      <description>一提到办公，从小被要求学 Word, Excel, 和 PowerPoint 的大多数人也就是能想到这三种工具了。放到十年前，也许没什么问题，但是现在我们并非离开它们就活不下去了。而且，对编程来说，这几样工具并不是最合适的。
+我们先来看处理文字的一项利器： Markdown.
+Markdown 相比 Word 有什么好处呢？第一，非常简单，5分钟就能学会。第二，Markdown 就是为网页而生的，应用型极强。配合 Rmarkdown 和 Pandoc 等工具，Markdown 可以非常便捷地在 HTML 和 PDF 之间转化。Markdown 的文件格式缩写是 md。
+以下两篇文章非常好地总结了 Markdown 的基本语法：
+ Markdown 是个啥 , 来自统计之都 Markdown 基本语法 , 作者为 younghz  Markdown Cheatsheet ，作者为 adam-p   Markdown 编辑器 你可以用前面提到的文本编辑器来写 Markdown 文件，缺点是你看不到实时的结果。如果你想看到实时的效果，我推荐用 Typora , 开源、轻巧、免费、主题多样，而且可以非常方便得转成 HTML 和 PDF。你也可以在 stackedit.io 在线写 Markdown 文件。如果你平常用 Markdown 比较多，推荐用 Typora 在本地写。
+想看一下效果的话，你可以看看我用 Typora 写的 Markdown 文本 ，转成 HTML 和 PDF 后的样子。</description>
+    </item>
+    
+    <item>
+      <title>前期准备</title>
+      <link>https://example.com/tutorials/prep/</link>
+      <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tutorials/prep/</guid>
+      <description>GitHub 请注册一个 GitHub 账号，编程的入门票。用户名请认真起。如果你之后建个人网站不想买域名的话，你可以用免费的 你的用户名.github.io。所以如果用户名起得很丑的话，你的网址将来也很丑。
+终端 如果你用的苹果系统或者 Linux 系统，终端 (Terminal) 是自带的。如果你用的用的是 Windows 系统，你可以看看 这个讨论 。我不怎么用 Windows，所以不是特别了解。上面的讨论中 powershell , cmder , wsltty , 和 git bash 出现的频率比较高。你可以试试看哪个好用。
+文本编辑器 文本编辑器 (Text Editor) 是程序员用来吃饭的家伙。每个人的喜好不同，Sublime Tex , VS Code 和 vim 这三个貌似很多人用，而且也都是免费的。我比较习惯用 Sublime Text。</description>
+    </item>
+    
+  </channel>
+</rss>
